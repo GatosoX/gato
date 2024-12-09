@@ -20,7 +20,7 @@
          "ServerIP":"v2ray.danaelvps.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://v2ray.danaelvps.shop:5454/checkUser"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       },
       {
          "Color": "#ffffff",
@@ -35,7 +35,7 @@
          "ServerIP":"api.danaelvps.shop", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://api.danaelvps.shop:5454/checkUser"
+         "CheckUser": "http://172.233.17.8:5454/checkUser"
       },
       {
          "Color": "#ffffff",
@@ -50,7 +50,7 @@
          "ServerIP":"198.58.111.108", 
          "ServerPort":"80",
          "TYPE":"premium",
-         "CheckUser": "http://198.58.111.108:2053/checkUser"
+         "CheckUser": "http://204.216.150.175:2053/checkUser"
       }
   ],
 "Networks": [
