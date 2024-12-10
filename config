@@ -83,6 +83,20 @@
          "TlsIP":""
       },
       {
+         "Color": "#ffffff",
+         "ColorDescription": "#000000",
+         "ColorName": "#000000",
+         "Description": "DALLAS TEXAS",
+         "FLAG":"https://telegra.ph/file/8287cf5cecc876001e0b9.png",
+         "Name":"IP ESTADOS",
+         "SSLPort":"443",
+         "Payload":"",
+         "ProxyIP":"",
+         "ProxyPort":"",
+         "SNI":"mobile.twitter.com",
+         "TlsIP":""
+      },
+      {
          "Color": "#993399",
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
