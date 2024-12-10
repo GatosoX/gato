@@ -111,6 +111,21 @@
          "TlsIP":""
       },
       {
+         "Color": "#ff0000",
+         "ColorDescription": "#ffffff",
+         "ColorName": "#ffffff",
+         "Description": "SSL TEST",
+         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
+         "Info":"Proxy",
+         "Name":"ALTAN",
+         "Payload":"",
+         "SSLPort":"443",
+         "ProxyIP":"",
+         "ProxyPort":"",
+         "SNI":"t.co",
+         "TlsIP":""
+      },
+      {
          "Color": "#993399",
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
