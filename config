@@ -111,21 +111,6 @@
          "TlsIP":""
       },
       {
-         "Color": "#ff0000",
-         "ColorDescription": "#ffffff",
-         "ColorName": "#ffffff",
-         "Description": "SSL TEST",
-         "FLAG":"https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
-         "Info":"Proxy",
-         "Name":"IP ESTADO UNIDOS",
-         "USER":"root",
-         "PASS":"root",
-         "SSLPort":"443",
-         "ServerIP":"v2ray.danaelvps.shop",
-         "SNI":"t.co",
-         "TlsIP":"",
-      },
-      {
          "Color": "#993399",
          "ColorDescription": "#ffffff",
          "ColorName": "#ffffff",
