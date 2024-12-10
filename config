@@ -120,10 +120,18 @@
          "Name":"IP ESTADO UNIDOS",
          "USER":"root",
          "PASS":"root",
+         "ServerPort": "22",
          "SSLPort":"443",
          "ServerIP":"v2ray.danaelvps.shop",
          "SNI":"t.co",
          "TlsIP":""
+         "isSSL": true,
+         "isPayloadSSL": false,
+         "isSlow": false,
+         "isInject": false,
+         "isDirect": false,
+         "isudp": false,
+         "iv2ray": false
       },
       {
          "Color": "#993399",
