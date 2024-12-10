@@ -94,7 +94,7 @@
          "ProxyIP":"",
          "ProxyPort":"",
          "SNI":"mobile.twitter.com",
-         "TlsIP":""
+         "TlsIP":"v2ray.danaelvps.shop:443"
       },
       {
          "Color": "#993399",
