@@ -123,8 +123,7 @@
          "SSLPort":"443",
          "ServerIP":"v2ray.danaelvps.shop",
          "SNI":"t.co",
-         "TlsIP":""
-         "isSSL": true,
+         "TlsIP":"",
       },
       {
          "Color": "#993399",
