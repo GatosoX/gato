@@ -78,7 +78,7 @@
          "Name":"AT&T REDES",
          "Payload":"",
          "ProxyIP":"",
-         "ProxyPort":"443",
+         "ProxyPort":"",
          "SNI":"mobile.twitter.com",
          "TlsIP":""
       },
