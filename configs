@@ -1,18 +1,65 @@
 {
-  "Version": "0",
+  "Version": "1",
+  "Update": "",
+  "UdpPort": "7300;7200",
+  "Contato": "wa.me/+525658186409",
+  "Site": "https://www.speedtest.net",
   "Servers": [
     {
-      "Name": "TEST",
-      "ServerIP": "104.16.51.111",
-      "ServerPort": "80",
-      "Payload": "GET / HTTP/1.1[crlf]Host: creatorsupport.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: lmsk.store[crlf]Expect: 100-Sask[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "Name": "TELCEL REDES",
+      "FLAG": "https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
+      "ServerIP": "v2ray.danaelvps.shop",
+      "ServerPort": "443",
+      "Payload": "",
       "ProxyIP": "",
       "ProxyPort": "",
-      "SNI": "",
+      "SNI": "mobile.twitter.com",
       "USER": "",
       "PASS": "",
-      "CheckUser": "http://lmsk.store:5000/checkUser",
-      "Info": "Direct"
+      "CheckUser": "http://endleszx.online:5000/checkUser",
+      "Info": "SSL+PAYLOAD"
+    },
+  {
+      "Name": "AT&T REDES",
+      "FLAG": "https://telegra.ph/file/3c676316d18d082d2af0f.png",
+      "ServerIP": "v2ray.danaelvps.shop",
+      "ServerPort": "443",
+      "Payload": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "SNI": "mobile.twitter.com",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://endleszx.online:5000/checkUser",
+      "Info": "PAYLOAD"
+    },
+{
+"Name": "ALTAN REDES",
+      "FLAG": "https://telegra.ph/file/02b0f511eaaaa1d2d467a.png",
+      "ServerIP": "v2ray.danaelvps.shop",
+      "ServerPort": "443",
+      "Payload": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "SNI": "t.co",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "http://atx.sshtproject.com:5000/checkUser",
+      "Info": "SSL"
+},
+{
+      "Name": "ALTAN SIN SALDO",
+      "FLAG": "https://telegra.ph/file/3c676316d18d082d2af0f.png",
+      "ServerIP": "v2ray.danaelvps.shop",
+      "ServerPort": "443",
+      "Payload": "",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "SNI": "api.gob.mx",
+      "USER": "",
+      "PASS": "",
+      "CheckUser": "",
+      "Info": "Ssl"
     }
   ]
 }
